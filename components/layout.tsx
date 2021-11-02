@@ -45,7 +45,7 @@ export default function Layout({ children, home }:{children:React.ReactNode,home
               <a>
                 <Image
                   priority
-                  src="/images/profile.jpg"
+                  src="/images/profile.jpeg"
                   className={utilStyles.borderCircle}
                   height={108}
                   width={108}
